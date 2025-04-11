@@ -240,8 +240,28 @@ export default function Home() {
                         delivery of content.
                       </p>
                       <p className="text-gray-600 dark:text-gray-400 mb-4">
-                        Tracked and analyzed social media KPIs, providing actionable recommendations to optimize
-                        performance.
+                      Edited social media posts for campaigns aligned with brand guidelines and
+                      messaging, ensuring high-quality delivery.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Monitored brand security across social channels, promptly flagging and mitigating
+                      risks.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Tracked and analyzed social media KPIs, providing actionable recommendations
+                      to optimize performance.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Supported paid social media strategies and execution on LinkedIn, Meta, and
+                      Google Ads, contributing to successful campaigns.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Delivered weekly, monthly, and quarterly analytics and social media performance
+                      reports, building dashboards and deriving insights to enhance campaigns.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Communicated effectively with clients for campaign planning and reporting,
+maintaining strong relationships.
                       </p>
                       <div className="flex flex-wrap gap-2">
                         <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
@@ -284,6 +304,14 @@ export default function Home() {
                         Managed website content updates, optimized blog posts for SEO, and improved organic search
                         rankings, significantly enhancing the company's digital presence.
                       </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Collaborated on email marketing campaigns, which contributed to a 25%
+                      increase in open rates through strategic content development and segmentation.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Collaborated with stakeholders and UX teams to provide actionable insights from
+                      social media analytics, ensuring business relevancy.
+                      </p>
                       <div className="flex flex-wrap gap-2">
                         <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
                           Digital Marketing
@@ -325,6 +353,10 @@ export default function Home() {
                         Worked on keyword research and SEO best practices to improve content discoverability and
                         increase organic traffic.
                       </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Developed engaging content for digital platforms, driving audience engagement
+                      and increasing website traffic by optimizing for SEO
+                      </p>
                       <div className="flex flex-wrap gap-2">
                         <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
                           Content Creation
@@ -359,8 +391,18 @@ export default function Home() {
                         RG Media Services LLP
                       </h4>
                       <p className="text-gray-600 dark:text-gray-400 mb-4">
-                        Developed engaging content for digital platforms, driving audience engagement and increasing
-                        website traffic by optimizing for SEO.
+                      Assist in developing and implementing social media campaigns and strategies.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Conduct research on industry trends, audience preferences, and competitor
+                      activities.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Suggest creative ideas for new posts, campaigns, or content formats.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Develops engaging and high-quality content, including blogs, articles, and social
+                      media posts, tailored to target audiences.
                       </p>
                       <div className="flex flex-wrap gap-2">
                         <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
@@ -376,86 +418,157 @@ export default function Home() {
                     </div>
                   </div>
                 </div>
+
+                {/* Timeline Item 5 */}
+                <div className="timeline-item" data-aos="fade-up" data-aos-delay="300">
+                  <div className="flex flex-col md:flex-row">
+                    <div className="md:w-1/3">
+                      <div className="flex items-center mb-4 md:mb-0">
+                        <div className="w-12 h-12 bg-lavender-100 dark:bg-lavender-900 rounded-full flex items-center justify-center mr-4">
+                          <FileText className="h-6 w-6 text-lavender-600 dark:text-lavender-400" />
+                        </div>
+                        <div>
+                          <span className="text-sm text-gray-500 dark:text-gray-400">Feb 2021 - Apr 2021</span>
+                          <h3 className="font-medium text-gray-900 dark:text-white">Web Content Specialist</h3>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="md:w-2/3 md:pl-8 border-l border-gray-200 dark:border-gray-700">
+                      <h4 className="text-xl font-serif text-gray-800 dark:text-gray-200 mb-2">
+                        Applanding. page
+                      </h4>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Obtained copyrights for completed work using established procedures.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Revised written output to satisfy needs of clients, directors or publishers.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Managed multiple content projects simultaneously, adhering to strict deadlines.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Collaborated with marketing team to create compelling copy for email
+                      campaigns, increasing open rates and engagement.
+                      </p>
+                      <div className="flex flex-wrap gap-2">
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Content Writing
+                        </span>
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Email Campaigns
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+{/* Timeline Item 6 */}
+<div className="timeline-item" data-aos="fade-up" data-aos-delay="300">
+                  <div className="flex flex-col md:flex-row">
+                    <div className="md:w-1/3">
+                      <div className="flex items-center mb-4 md:mb-0">
+                        <div className="w-12 h-12 bg-lavender-100 dark:bg-lavender-900 rounded-full flex items-center justify-center mr-4">
+                          <FileText className="h-6 w-6 text-lavender-600 dark:text-lavender-400" />
+                        </div>
+                        <div>
+                          <span className="text-sm text-gray-500 dark:text-gray-400">Nov 2020 - Dec 2020</span>
+                          <h3 className="font-medium text-gray-900 dark:text-white">Content Writer</h3>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="md:w-2/3 md:pl-8 border-l border-gray-200 dark:border-gray-700">
+                      <h4 className="text-xl font-serif text-gray-800 dark:text-gray-200 mb-2">
+                        HUMCEN
+                      </h4>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Developed advertising plans for timely and successful market entry.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Conducted thorough research to produce informative and accurate articles on
+diverse topics.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Developed keyword-rich SEO articles to promote brand awareness and improve
+organic search rankings.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Researched industry trends and topics to create relevant, informative content.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Utilized content management systems to publish and update web content
+efficiently.
+                      </p>
+                      <div className="flex flex-wrap gap-2">
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Advertising Plans
+                        </span>
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Content Management
+                        </span>
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          SEO
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+{/* Timeline Item 7 */}
+<div className="timeline-item" data-aos="fade-up" data-aos-delay="300">
+                  <div className="flex flex-col md:flex-row">
+                    <div className="md:w-1/3">
+                      <div className="flex items-center mb-4 md:mb-0">
+                        <div className="w-12 h-12 bg-lavender-100 dark:bg-lavender-900 rounded-full flex items-center justify-center mr-4">
+                          <FileText className="h-6 w-6 text-lavender-600 dark:text-lavender-400" />
+                        </div>
+                        <div>
+                          <span className="text-sm text-gray-500 dark:text-gray-400">Oct 2020 - Oct 2020</span>
+                          <h3 className="font-medium text-gray-900 dark:text-white">Content Editor / Marketing Copywriter</h3>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="md:w-2/3 md:pl-8 border-l border-gray-200 dark:border-gray-700">
+                      <h4 className="text-xl font-serif text-gray-800 dark:text-gray-200 mb-2">
+                      TechGeekers
+                      </h4>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Analyzed web analytics data to identify areas where improvements could be
+                      made in terms of user engagement with content pieces.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Responded promptly to customer inquiries posted on social media channels
+                      relating to company-related content pieces.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Developed scripted ad content to enhance client marketing strategies.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Prepared, rewrote and edited copy to improve readability
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Provided editing, fact-checking and proofreading for various articles.
+                      </p>
+                      <div className="flex flex-wrap gap-2">
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Content Writing
+                        </span>
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Proofreading
+                        </span>
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Marketing Strategies
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>                
+
               </div>
             </div>
           </div>
         </section>
 
-        {/* Internships Section */}
-        <section id="internships" className="py-20 bg-white dark:bg-gray-900 relative overflow-hidden">
-          <div className="container mx-auto px-4 relative z-10">
-            <div className="flex flex-col items-center mb-16">
-              <h2 className="text-3xl md:text-4xl font-serif font-bold text-gray-900 dark:text-white mb-4">
-                Internships
-              </h2>
-              <div className="w-20 h-1 bg-lavender-400 rounded-full"></div>
-            </div>
-            <div className="max-w-5xl mx-auto">
-              <div className="grid md:grid-cols-3 gap-6">
-                {/* Internship Item 1 */}
-                <div className="bg-gray-50 dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden">
-                  <div className="p-6">
-                    <div className="flex items-center mb-4">
-                      <div className="w-10 h-10 bg-lavender-100 dark:bg-lavender-900 rounded-full flex items-center justify-center mr-3">
-                        <FileText className="h-5 w-5 text-lavender-600 dark:text-lavender-400" />
-                      </div>
-                      <div>
-                        <span className="text-sm text-gray-500 dark:text-gray-400">Feb 2021 - April 2021</span>
-                        <h3 className="font-medium text-gray-900 dark:text-white">Content Writer</h3>
-                      </div>
-                    </div>
-                    <h4 className="text-lg font-serif text-gray-800 dark:text-gray-200 mb-2">App Landing Page</h4>
-                    <p className="text-gray-600 dark:text-gray-400">
-                      Assisted in developing and implementing social media campaigns and strategies. Conducted
-                      research on industry trends, audience preferences, and competitor activities.
-                    </p>
-                  </div>
-                </div>
-
-                {/* Internship Item 2 */}
-                <div className="bg-gray-50 dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden">
-                  <div className="p-6">
-                    <div className="flex items-center mb-4">
-                      <div className="w-10 h-10 bg-lavender-100 dark:bg-lavender-900 rounded-full flex items-center justify-center mr-3">
-                        <FileText className="h-5 w-5 text-lavender-600 dark:text-lavender-400" />
-                      </div>
-                      <div>
-                        <span className="text-sm text-gray-500 dark:text-gray-400">Nov 2020 - Dec 2020</span>
-                        <h3 className="font-medium text-gray-900 dark:text-white">Content Writer</h3>
-                      </div>
-                    </div>
-                    <h4 className="text-lg font-serif text-gray-800 dark:text-gray-200 mb-2">HUMCEN</h4>
-                    <p className="text-gray-600 dark:text-gray-400">
-                      Suggested creative ideas for new posts, campaigns, or content formats. Developed engaging and
-                      high-quality content tailored to target audiences.
-                    </p>
-                  </div>
-                </div>
-
-                {/* Internship Item 3 */}
-                <div className="bg-gray-50 dark:bg-gray-800 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden">
-                  <div className="p-6">
-                    <div className="flex items-center mb-4">
-                      <div className="w-10 h-10 bg-lavender-100 dark:bg-lavender-900 rounded-full flex items-center justify-center mr-3">
-                        <FileText className="h-5 w-5 text-lavender-600 dark:text-lavender-400" />
-                      </div>
-                      <div>
-                        <span className="text-sm text-gray-500 dark:text-gray-400">Oct 2020</span>
-                        <h3 className="font-medium text-gray-900 dark:text-white">Content Editor</h3>
-                      </div>
-                    </div>
-                    <h4 className="text-lg font-serif text-gray-800 dark:text-gray-200 mb-2">TechGeekers</h4>
-                    <p className="text-gray-600 dark:text-gray-400">
-                      Edited and refined content for technical publications, ensuring accuracy and clarity in complex
-                      topics.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
+      
         {/* Skills Section */}
         <section id="skills" className="py-20 bg-white dark:bg-gray-900 relative overflow-hidden">
           <div className="absolute inset-0 overflow-hidden">
@@ -620,6 +733,27 @@ export default function Home() {
                   <p className="text-gray-600 dark:text-gray-400 mb-4">
                   Crafted high-quality, SEO-optimized content for blogs, landing pages, and marketing campaigns tailored to the IT and digital solutions industry.
                   </p>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://astraccorp.com/" target="_blank">Empowering Industries: Your Trusted IT Consulting Partner
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://casainformatix.com/7-important-tips-for-best-online-marketing/" target="_blank">7 Important Tips for Best Online Marketing
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://www.kkeydos.com/services" target="_blank">Services
+                      </a>
+                    </span>
+                  </div>
                 </div>
               </div>
 
@@ -639,6 +773,12 @@ export default function Home() {
                   <p className="text-gray-600 dark:text-gray-400 mb-4">
                   Wrote insightful and engaging articles published in the Times of India, focusing on lifestyle, education, and digital trends.
                   </p>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://timesofindia.indiatimes.com/readersblog/trueheal/yoga-a-better-lifestyle-35364/" target="_blank">Yoga – A better lifestyle</a>
+                    </span>
+                  </div>
                 </div>
               </div>
 
@@ -658,6 +798,41 @@ export default function Home() {
                   <p className="text-gray-600 dark:text-gray-400 mb-4">
                   Created informative and value-driven blog posts as a guest contributor for IIM SKILLS, covering digital marketing, content strategy, and career growth.
                   </p>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://coursenearyou.com/iim-skills-vs-henry-harvin/" target="_blank">IIM SKILLS vs Henry Harvin Content Writing Course Review
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://iimskills.com/best-grammar-checker/" target="_blank">Best Grammar Checker: 12 Prevalent Options To Pick Up
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://coursenearyou.com/content-writing-course-in-bhopal/" target="_blank">Top 11 Content Writing Course In Bhopal With Placements
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://digitalcoursesindia.com/digital-marketing-courses-in-greece/" target="_blank">9 Best Digital Marketing Courses in Greece With Placements
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://iimskills.com/free-wordpress-themes/" target="_blank">Top 12 Free WordPress Themes To Install For Good Impression
+                      </a>
+                    </span>
+                  </div>
                 </div>
               </div>
 
@@ -676,10 +851,112 @@ export default function Home() {
                   <h3 className="text-xl font-serif text-gray-900 dark:text-white mb-2">Quora Content Creator</h3>
                   <p className="text-gray-600 dark:text-gray-400 mb-4">
                   77K+ views | 2.3K monthly views | 
-Active Quora writer with a growing readership. Known for insightful answers on digital marketing, writing careers, and personal development.
+                  Active Quora writer with a growing readership. Known for insightful answers on digital marketing, writing careers, and personal development.
                   </p>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://www.quora.com/profile/Alka-Bisht-19" target="_blank">120% Traffic Increase</a>
+                    </span>
+                  </div>
                 </div>
               </div>
+
+
+              {/* Project 5 */}
+              <div className="group bg-gray-50 dark:bg-gray-800 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
+                <div className="relative overflow-hidden">
+                  <Image
+                    src="images/amkglobal.jpg"
+                    alt="AMK Global Group"
+                    width={400}
+                    height={200}
+                    className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-105"
+                  />
+                </div>
+                <div className="p-6">
+                  <h3 className="text-xl font-serif text-gray-900 dark:text-white mb-2">AMK Global Group</h3>
+                  <p className="text-gray-600 dark:text-gray-400 mb-4">
+                  Immigration Content
+                  </p>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://amkglobalgroup.com/how-to-become-medical-lab-technologist-canada/" target="_blank">How to Become a Medical Lab Technologist in Canada: A Step-by-Step Guide
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://amkglobalgroup.com/immigration-to-canada-as-a-mechanic-or-auto-technician/" target="_blank">Immigration Pathways to move to Canada as a Mechanic or Auto Technician
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://amkglobalgroup.com/ielts-exam-for-canada/" target="_blank">Find out everything you need to know about the IELTS exam for Canada.
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://amkglobalgroup.com/work-in-canada-as-a-chef-or-cook-a-job-in-the-hospitality-industry/" target="_blank">Work in Canada as a Chef or Cook- A job in the Hospitality Industry may be what you’re looking for!
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://amkglobalgroup.com/beginners-guide-to-applying-for-canadian-permanent-residency-through-express-entry/" target="_blank">Beginners Guide to applying for Canadian Permanent Residency through Express Entry
+                      </a>
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              {/* Project 6 */}
+              <div className="group bg-gray-50 dark:bg-gray-800 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
+                <div className="relative overflow-hidden">
+                  <Image
+                    src="images/medium.png"
+                    alt="Medium Articles"
+                    width={400}
+                    height={200}
+                    className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-105"
+                  />
+                </div>
+                <div className="p-6">
+                  <h3 className="text-xl font-serif text-gray-900 dark:text-white mb-2">Medium Articles</h3>
+                  <p className="text-gray-600 dark:text-gray-400 mb-4">
+                  Articles for Clients
+                  </p>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://medium.com/@casainformatix789/revenue-from-ecommerce-website-basic-strategy-to-generate-revenue-from-ecommerce-website-ba96f1aad95f" target="_blank">Basic Strategy to Generate revenue from Ecommerce website
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://medium.com/@powerpeace789/what-factors-should-you-be-considering-before-buying-a-healing-crystal-ae5e81650198" target="_blank">What Factors should you be considering before buying a healing crystal?
+                      </a>
+                    </span>
+                  </div>
+                  <div className="flex items-center text-lavender-600 dark:text-lavender-400">
+                    <PieChart className="h-4 w-4 mr-2" />
+                    <span className="text-sm">
+                      <a href="https://medium.com/@businessnrg789/comparing-the-business-energy-companies-rates-in-the-uk-with-the-current-pandemic-situation-b55cbd0addc3" target="_blank">Comparing the Business Energy Companies (Rates) in the UK With The Current Pandemic Situation
+                      </a>
+                    </span>
+                  </div>
+                </div>
+              </div>
+
             </div>
 
           </div>
@@ -782,7 +1059,7 @@ Active Quora writer with a growing readership. Known for insightful answers on d
                         </div>
                         <div>
                           <p className="text-sm text-gray-500 dark:text-gray-400">Location</p>
-                          <p className="text-gray-900 dark:text-white">Pune, India</p>
+                          <p className="text-gray-900 dark:text-white">Dehradun, India</p>
                         </div>
                       </div>
                     </div>
