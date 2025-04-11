@@ -125,7 +125,7 @@ export default function Home() {
             <div className="order-1 md:order-2 flex justify-center md:justify-end animate-float">
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                 <Image
-                  src="https://placehold.co/320"
+                  src="images/alkabishtprofile.jpeg"
                   alt="Alka Bisht"
                   width={320}
                   height={320}
@@ -152,10 +152,10 @@ export default function Home() {
               <div className="flex justify-center">
                 <div className="relative w-full max-w-sm h-80 rounded-lg overflow-hidden shadow-xl">
                   <Image
-                    src="https://placehold.co/320"
+                    src="images/seo.jpg"
                     alt="Alka working"
-                    width={320}
-                    height={240}
+                    width={420}
+                    height={500}
                     className="object-cover"
                   />
                 </div>
@@ -608,8 +608,8 @@ export default function Home() {
               <div className="group bg-gray-50 dark:bg-gray-800 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
                 <div className="relative overflow-hidden">
                   <Image
-                    src="https://placehold.co/400x200"
-                    alt="SEO Dashboard"
+                    src="images/freelancerwriter.jpg"
+                    alt="Freelance Writer & SEO Consultant"
                     width={400}
                     height={200}
                     className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-105"
@@ -627,8 +627,8 @@ export default function Home() {
               <div className="group bg-gray-50 dark:bg-gray-800 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
                 <div className="relative overflow-hidden">
                   <Image
-                    src="https://placehold.co/400x200"
-                    alt="Keyword Research"
+                    src="images/timesofindia.png"
+                    alt="Contributor – Times of India"
                     width={400}
                     height={200}
                     className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-105"
@@ -646,8 +646,8 @@ export default function Home() {
               <div className="group bg-gray-50 dark:bg-gray-800 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
                 <div className="relative overflow-hidden">
                   <Image
-                    src="https://placehold.co/400x200"
-                    alt="SEO Analytics"
+                    src="images/iimskills.png"
+                    alt="Guest Blogger – IIM SKILLS"
                     width={400}
                     height={200}
                     className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-105"
@@ -665,8 +665,8 @@ export default function Home() {
               <div className="group bg-gray-50 dark:bg-gray-800 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
                 <div className="relative overflow-hidden">
                   <Image
-                    src="https://placehold.co/400x200"
-                    alt="SEO Analytics"
+                    src="images/quora.png"
+                    alt="Quora Content Creator"
                     width={400}
                     height={200}
                     className="w-full h-48 object-cover transition-transform duration-500 group-hover:scale-105"
