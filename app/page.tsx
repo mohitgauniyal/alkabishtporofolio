@@ -103,7 +103,7 @@ export default function Home() {
                 className="text-lg text-gray-600 dark:text-gray-400 mb-8 max-w-lg animate-fade-in-up"
                 style={{ animationDelay: "400ms" }}
               >
-                Creative and results-driven professional with over 3.5+ years of experience in content creation, social
+                Creative and results-driven professional with over 3.7+ years of experience in content creation, social
                 media management, and brand strategy.
               </p>
               <div className="flex space-x-4 animate-fade-in-up" style={{ animationDelay: "600ms" }}>
@@ -165,7 +165,7 @@ export default function Home() {
                   Passionate About Digital Marketing
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  Creative and results-driven Content & Social Media Marketing Manager with over 3.5+ years of
+                  Creative and results-driven Content & Social Media Marketing Manager with over 3.7+ years of
                   experience in content creation, social media management, and brand strategy.
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 mb-6">
@@ -224,7 +224,7 @@ export default function Home() {
                           <Briefcase className="h-6 w-6 text-lavender-600 dark:text-lavender-400" />
                         </div>
                         <div>
-                          <span className="text-sm text-gray-500 dark:text-gray-400">April 2023 - Present</span>
+                          <span className="text-sm text-gray-500 dark:text-gray-400">April 2023 - Jan 2025</span>
                           <h3 className="font-medium text-gray-900 dark:text-white">Manager, Content & Social Media</h3>
                         </div>
                       </div>
