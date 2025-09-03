@@ -103,7 +103,7 @@ export default function Home() {
                 className="text-lg text-gray-600 dark:text-gray-400 mb-8 max-w-lg animate-fade-in-up"
                 style={{ animationDelay: "400ms" }}
               >
-                Creative and results-driven professional with over 3.7+ years of experience in content creation, social
+                Creative and results-driven professional with over 4.5+ years of experience in content creation, social
                 media management, and brand strategy.
               </p>
               <div className="flex space-x-4 animate-fade-in-up" style={{ animationDelay: "600ms" }}>
@@ -165,7 +165,7 @@ export default function Home() {
                   Passionate About Digital Marketing
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  Creative and results-driven Content & Social Media Marketing Manager with over 3.7+ years of
+                  Creative and results-driven Content & Social Media Marketing Manager with over 4.5+ years of
                   experience in content creation, social media management, and brand strategy.
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 mb-6">
@@ -215,6 +215,65 @@ export default function Home() {
             </div>
             <div className="max-w-3xl mx-auto">
               <div className="space-y-12">
+                {/* Timeline Item 0 */}
+                <div className="timeline-item" data-aos="fade-up">
+                  <div className="flex flex-col md:flex-row">
+                    <div className="md:w-1/3">
+                      <div className="flex items-center mb-4 md:mb-0">
+                        <div className="w-12 h-12 bg-lavender-100 dark:bg-lavender-900 rounded-full flex items-center justify-center mr-4">
+                          <Briefcase className="h-6 w-6 text-lavender-600 dark:text-lavender-400" />
+                        </div>
+                        <div>
+                          <span className="text-sm text-gray-500 dark:text-gray-400">February 2025 - September 2025</span>
+                          <h3 className="font-medium text-gray-900 dark:text-white">Affiliate & Social Media Marketing Strategist
+</h3>
+                        </div>
+                      </div>
+                    </div>
+                    <div className="md:w-2/3 md:pl-8 border-l border-gray-200 dark:border-gray-700">
+                      <h4 className="text-xl font-serif text-gray-800 dark:text-gray-200 mb-2">AfterPullback
+</h4>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                        Recruit, onboard, and manage affiliate partners to expand referral network and sales channels.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                        Optimize affiliate performance through commission structuring, creative assets, and A/B testing.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Track, analyze, and report on affiliate KPIs (traffic, conversions, ROI) using analytics dashboards.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Coordinate cross-channel campaigns (SEO, email, content, paid media) to drive traffic and engagement.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Conduct competitive and market research to identify new opportunities and trends.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Create and manage content calendars for blogs, landing pages, email campaigns, and lead magnets.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Write and optimize SEO-driven content to increase organic visibility and search rankings.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Monitor content performance using Google Analytics, Search Console, and SEMrush.
+                      </p>
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                      Recommend new tools, platforms, or tactics to stay ahead in competitive digital spaces.
+                      </p>
+                      <div className="flex flex-wrap gap-2">
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Affiliate Strategy
+                        </span>
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Digital Growth
+                        </span>
+                        <span className="px-3 py-1 bg-lavender-50 text-lavender-600 text-sm rounded-full dark:bg-lavender-950 dark:text-lavender-400">
+                          Marketing Excellence
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 {/* Timeline Item 1 */}
                 <div className="timeline-item" data-aos="fade-up">
                   <div className="flex flex-col md:flex-row">
