@@ -5,7 +5,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { ChevronRight, Mail, Linkedin, Twitter, Search, BarChart, LineChart, Send, FileText, PieChart, Award, Briefcase, GraduationCap } from 'lucide-react'
+import { ChevronRight, Mail, Phone, Linkedin, Twitter, Search, BarChart, LineChart, Send, FileText, PieChart, Award, Briefcase, GraduationCap } from 'lucide-react'
 import { ThemeToggle } from "@/components/theme-toggle"
 
 export default function Home() {
@@ -1093,7 +1093,7 @@ efficiently.
                         </div>
                         <div>
                           <p className="text-sm text-gray-500 dark:text-gray-400">Email</p>
-                          <p className="text-gray-900 dark:text-white">alkabisht04@gmail.com</p>
+                          <p className="text-gray-900 dark:text-white">seo.alkab@gmail.com</p>
                         </div>
                       </div>
                       <div className="flex items-center">
@@ -1111,6 +1111,20 @@ efficiently.
                             linkedin.com/in/alka-bisht
                           </a>
                         </div>
+                      </div>
+                    <div className="flex items-center">
+                      <div className="w-10 h-10 rounded-full bg-lavender-100 dark:bg-lavender-900 flex items-center justify-center mr-4">
+                        <Phone className="h-5 w-5 text-lavender-600 dark:text-lavender-400" />
+                      </div>
+                      <div>
+                        <p className="text-sm text-gray-500 dark:text-gray-400">Phone</p>
+                        <a
+                          href="tel:+917387100342"
+                          className="text-gray-900 dark:text-white hover:text-lavender-600 dark:hover:text-lavender-400 transition-colors"
+                        >
+                          +917387100342
+                        </a>
+                      </div>
                       </div>
                       <div className="flex items-center">
                         <div className="w-10 h-10 rounded-full bg-lavender-100 dark:bg-lavender-900 flex items-center justify-center mr-4">
@@ -1152,7 +1166,7 @@ efficiently.
             </div>
             <div className="flex space-x-6">
               <a
-                href="mailto:alkabisht04@gmail.com"
+                href="mailto:seo.alkab@gmail.com"
                 className="text-gray-500 hover:text-lavender-600 dark:text-gray-400 dark:hover:text-lavender-400"
               >
                 <Mail className="h-5 w-5" />
