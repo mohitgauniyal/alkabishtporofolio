@@ -165,14 +165,16 @@ export default function Home() {
                   Passionate About Digital Marketing
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  Creative and results-driven Content & Social Media Marketing Manager with over 4.5+
-years of experience in content creation, social media management, content writing,
-and brand strategy.
+                  Results-driven Marketing & Client Success Professional with 4.5+ years’
+experience managing client accounts across the UK, Canada, and USA.
+Skilled in building strong client relationships, optimizing digital marketing
+campaigns (Facebook Ads, Google Ads, SEO), creating content calendars,
+and driving revenue through upselling.
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 mb-6">
-                  Proven ability to drive engagement, optimize campaigns, and
-analyze performance metrics for continuous improvement. Skilled in handling
-multiple platform social media operations, reporting, and client communications.
+                  Proficient in Canva Pro, CapCut,
+InShot, Mailchimp, and Meta Business Suite with expertise in content
+management, analytics, and strategic communication.
                 </p>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="bg-gray-50 dark:bg-gray-800 p-4 rounded-lg">
