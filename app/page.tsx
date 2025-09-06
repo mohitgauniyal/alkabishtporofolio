@@ -97,7 +97,7 @@ export default function Home() {
                 className="text-2xl md:text-3xl font-serif text-gray-700 dark:text-gray-300 mb-6 animate-fade-in-up"
                 style={{ animationDelay: "200ms" }}
               >
-                Content & Social Media Marketing Manager
+                Digital Marketing Specialist
               </h2>
               <p
                 className="text-lg text-gray-600 dark:text-gray-400 mb-8 max-w-lg animate-fade-in-up"
@@ -165,13 +165,14 @@ export default function Home() {
                   Passionate About Digital Marketing
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  Creative and results-driven Content & Social Media Marketing Manager with over 4.5+ years of
-                  experience in content creation, social media management, and brand strategy.
+                  Creative and results-driven Content & Social Media Marketing Manager with over 4.5+
+years of experience in content creation, social media management, content writing,
+and brand strategy.
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 mb-6">
-                  Proven ability to drive engagement, optimize campaigns, and analyze performance metrics for continuous
-                  improvement. Skilled in handling multi-platform social media operations, reporting, and client
-                  communications.
+                  Proven ability to drive engagement, optimize campaigns, and
+analyze performance metrics for continuous improvement. Skilled in handling
+multiple platform social media operations, reporting, and client communications.
                 </p>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="bg-gray-50 dark:bg-gray-800 p-4 rounded-lg">
@@ -1132,7 +1133,7 @@ efficiently.
                         </div>
                         <div>
                           <p className="text-sm text-gray-500 dark:text-gray-400">Location</p>
-                          <p className="text-gray-900 dark:text-white">Dehradun, India</p>
+                          <p className="text-gray-900 dark:text-white">Pune, India</p>
                         </div>
                       </div>
                     </div>
